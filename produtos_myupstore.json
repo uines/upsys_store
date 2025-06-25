@@ -1,0 +1,28 @@
+[
+   {
+      "id":1,
+      "name":"Progressiva Vegetal Creme",
+      "description":"Apresentamos a inovação em alisamento capilar! Apresentamos nosso progressivo livre de formol, a solução perfeita para alcançar cabelos incrivelmente lisos, sem deficiência a saúde dos fios. Realce sua beleza com o poder da transformação, sem comprometer a saúde do seu cabelo. seções de cabelos bem hidratados, sedosos, alinhados e naturalmente alinhados. Conquiste a beleza que você merece, de maneira segura e eficiente. 👀👀👀 Pagamento na entrega😱😱😱 ",
+      "price":199.9,
+      "oldPrice":249.9,
+      "images":[
+         "https://logzz-s3.s3.us-east-2.amazonaws.com/uploads/files/products/prok9x6e/img_0_20241002-160650.webp",
+         "https://www.w3schools.com/html/mov_bbb.mp4",
+         "https://www.youtube.com/embed/dQw4w9WgXcQ",
+         "https://logzz-s3.s3.us-east-2.amazonaws.com/uploads/files/products/prok9x6e/img_0_20241002-160650.webp"
+      ],
+      "linkCompra":"https://entrega.logzz.com.br/pay/memmpez66/progcreme197"
+   },
+   {
+      "id":2,
+      "name":"Smartwatch Esportivo",
+      "description":"Monitore sua saúde e atividades físicas.",
+      "price":349.99,
+      "oldPrice":399.99,
+      "images":[
+         "https://via.placeholder.com/400/FF0000/FFFFFF?text=Smartwatch",
+         "https://www.w3schools.com/html/movie.mp4"
+      ],
+      "linkCompra":"https://entrega.logzz.com.br/pay/memmpez66/progcreme197"
+   }
+]
